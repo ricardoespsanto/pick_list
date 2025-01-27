@@ -1,0 +1,10 @@
+[package]
+name = "pick_list"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ricardo"]
+
+[dependencies]
+anyhow = "1.0.95"
+names = "0.14.0"
+rand = "0.9.0"
